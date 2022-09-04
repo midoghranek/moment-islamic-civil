@@ -1,8 +1,9 @@
 {
   "name": "@ghranek/moment-islamic-civil",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Hijri calendar (Based on islamic civil calculation) plugin for moment.js.",
   "main": "moment-civil.js",
+  "typings": "moment-civil.d.ts",
   "dependencies": {
     "chai": "^1.8.1",
     "moment": "^2.18.1"
