@@ -1,5 +1,5 @@
 {
-  "name": "@whitewater/moment-islamic-civil",
+  "name": "@ghranek/moment-islamic-civil",
   "version": "1.0.0",
   "description": "A Hijri calendar (Based on islamic civil calculation) plugin for moment.js.",
   "main": "moment-civil.js",
@@ -29,8 +29,5 @@
   "bugs": {
     "url": "https://github.com/ACGC/moment-islamic-civil/issues"
   },
-  "homepage": "https://github.com/ACGC/moment-islamic-civil#readme",
-  "publishConfig": {
-    "registry": "https://npm-registry.whitewater.ibm.com"
-  }
+  "homepage": "https://github.com/ACGC/moment-islamic-civil#readme"
 }
